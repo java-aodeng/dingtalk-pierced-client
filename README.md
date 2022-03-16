@@ -1,21 +1,20 @@
-  ## 个人使用笔记
-  
-  下载
+ 
+  npm 安装 https://www.runoob.com/nodejs/nodejs-install-setup.html
+  ### 内网穿透安装使用
+ >下载
 ```
 npm install dingtalk-design-cli@latest -g
 ```
- 是否安装成功
+ >是否安装成功
 ```
 ding -v
 ```
-启动
+>启动
 ```
 ding ngrok --subdomain aodeng666 --port 8080
 ```
+...
 
--
--
--
 
 # 钉钉提供的内网穿透工具
 
