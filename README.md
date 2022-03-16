@@ -1,3 +1,22 @@
+  ## 个人使用笔记
+  
+  下载
+```
+npm install dingtalk-design-cli@latest -g
+```
+ 是否安装成功
+```
+ding -v
+```
+启动
+```
+ding ngrok --subdomain aodeng666 --port 8080
+```
+
+-
+-
+-
+
 # 钉钉提供的内网穿透工具
 
 本仓库及以下说明来自钉钉官方开发文档。
